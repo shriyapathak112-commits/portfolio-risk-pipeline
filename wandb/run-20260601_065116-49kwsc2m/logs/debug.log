@@ -1,0 +1,9 @@
+2026-06-01 06:51:17,217 INFO    MainThread:6660 [wandb_setup.py:_flush():81] Current SDK version is 0.27.0
+2026-06-01 06:51:17,218 INFO    MainThread:6660 [wandb_setup.py:_flush():81] Configure stats pid to 6660
+2026-06-01 06:51:17,218 INFO    MainThread:6660 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2026-06-01 06:51:17,219 INFO    MainThread:6660 [wandb_init.py:setup_run_log_directory():723] Logging user logs to C:\Users\DELL\Documents\benchmarks\wandb\run-20260601_065116-49kwsc2m\logs\debug.log
+2026-06-01 06:51:17,220 INFO    MainThread:6660 [wandb_init.py:setup_run_log_directory():724] Logging internal logs to C:\Users\DELL\Documents\benchmarks\wandb\run-20260601_065116-49kwsc2m\logs\debug-internal.log
+2026-06-01 06:51:23,172 INFO    MainThread:6660 [wandb_init.py:init():851] calling init triggers
+2026-06-01 06:51:23,172 INFO    MainThread:6660 [wandb_init.py:init():856] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.01, 'epochs': 100, 'optimizer': 'Adam', 'quantum_layers': 4, '_wandb': {}}
+2026-06-01 06:51:23,172 INFO    MainThread:6660 [wandb_init.py:init():899] starting backend

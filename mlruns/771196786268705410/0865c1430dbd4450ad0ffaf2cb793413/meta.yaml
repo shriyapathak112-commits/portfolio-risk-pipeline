@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/DELL/Documents/benchmarks/mlruns/771196786268705410/0865c1430dbd4450ad0ffaf2cb793413/artifacts
+end_time: 1780288131030
+entry_point_name: ''
+experiment_id: '771196786268705410'
+lifecycle_stage: active
+run_id: 0865c1430dbd4450ad0ffaf2cb793413
+run_name: powerful-toad-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780288117034
+status: 3
+tags: []
+user_id: DELL

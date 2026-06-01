@@ -1,0 +1,50 @@
+_wandb:
+    value:
+        cli_version: 0.27.0
+        e:
+            ho8pv72ae98wqs3d7fbf140zs1w7qayy:
+                codePath: task4_tracking.py
+                codePathLocal: task4_tracking.py
+                cpu_count: 2
+                cpu_count_logical: 4
+                disk:
+                    /:
+                        total: "159245135872"
+                        used: "92448419840"
+                email: shriyapathak112@gmail.com
+                executable: C:\Users\DELL\AppData\Local\Programs\Python\Python312\python.exe
+                git:
+                    commit: 9a3c4d64eb25c2d748ec4f88466fcc967a29cedd
+                    remote: https://github.com/shriyapathak112-commits/portfolio-risk-pipeline.git
+                host: DESKTOP-HP8DII1
+                memory:
+                    total: "4100681728"
+                os: Windows-10-10.0.19045-SP0
+                program: C:\Users\DELL\Documents\benchmarks\task4_tracking.py
+                python: CPython 3.12.10
+                root: C:\Users\DELL\Documents\benchmarks
+                startedAt: "2026-06-01T04:26:39.664288Z"
+                writerId: ho8pv72ae98wqs3d7fbf140zs1w7qayy
+        m: []
+        python_version: 3.12.10
+        t:
+            "3":
+                - 2
+                - 13
+                - 16
+                - 41
+                - 61
+            "4": 3.12.10
+            "5": 0.27.0
+            "8":
+                - 3
+            "12": 0.27.0
+            "13": windows-amd64
+epochs:
+    value: 100
+learning_rate:
+    value: 0.01
+optimizer:
+    value: Adam
+quantum_layers:
+    value: 4
